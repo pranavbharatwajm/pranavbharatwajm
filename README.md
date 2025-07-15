@@ -10,7 +10,7 @@
 ## 🛠️ Technical Skills
 
 **Languages & Tools:**  
-Python, SQL (BigQuery, PostgreSQL, MySQL, Microsoft SQL Server, SQLite, Snowflake, Amazon Athena), R (basic), Excel  
+Python, SQL (BigQuery, PostgreSQL, MySQL, Microsoft SQL Server, SQLite, Snowflake, Amazon Athena), Jupyter, Google Colab, R (basic), Excel  
 
 **Data Visualization:**  
 Tableau, Google Looker Studio, LookML, Power BI  
