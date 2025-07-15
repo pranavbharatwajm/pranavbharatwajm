@@ -22,9 +22,7 @@ Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow
 Google Cloud Platform, BigQuery, Jira  
 
 **Technical Areas:**  
-Data Cleaning, Data Visualization, Data Mining, Machine Learning, Statistics, REST APIs, Web Scraping, Research
-
-**Currently learning:** Git
+Data Cleaning, Data Visualization, Data Mining, Machine Learning, Statistics, APIs, Web Scraping, Research
 
 ---
 
