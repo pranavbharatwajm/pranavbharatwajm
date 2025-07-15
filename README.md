@@ -13,13 +13,13 @@
 Python, SQL (BigQuery, PostgreSQL, MySQL, Microsoft SQL Server, SQLite, Snowflake, Amazon Athena), Jupyter, Google Colab, R (basic), Excel  
 
 **Data Visualization:**  
-Tableau, Google Looker Studio, LookML, Power BI  
+Tableau, Google Looker Studio, Looker, LookML, Power BI  
 
 **Libraries & Frameworks:**  
 Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, TensorFlow  
 
 **Cloud & Platforms:**  
-Google Cloud Platform (BigQuery, Looker Studio), Jira  
+Google Cloud Platform, BigQuery, Jira  
 
 **Technical Areas:**  
 Data Cleaning, Data Visualization, Data Mining, Machine Learning, Statistics, REST APIs, Web Scraping, Research
